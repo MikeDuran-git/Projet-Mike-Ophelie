@@ -1,4 +1,5 @@
 # ici on écrit notre code
+import pandas as pd
 
 def afficher_10_premieres(dataframe):
     return dataframe.head(10)
