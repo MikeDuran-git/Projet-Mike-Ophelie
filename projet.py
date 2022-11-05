@@ -4,7 +4,7 @@ import pandas as pd
 raw_data=pd.read_csv("IGT - Pouvoir de réchauffement global - IGT - Pouvoir de réchauffement global.csv")
 
 #on enleve les Nan Values
-df=raw_data.dropna("index")
+dataframe=raw_data.dropna("index")
 
 def afficher_10_premieres(dataframe):
     return dataframe.head(10)
@@ -27,21 +27,21 @@ def enlever_columns(dataframe):
 
 
 # afficher les 10 prem lignes
-print(afficher_10_premieres(df))
+print(afficher_10_premieres(dataframe))
 
 # afficher les 10 dernières ligne
-print(afficher_10_dernieres(df))
+print(afficher_10_dernieres(dataframe))
 
 # afficher la moyenne
-print(getMean(df))
+print(getMean(dataframe))
 
 # afficher les valeurs minimum
-print(getMin(df))
+print(getMin(dataframe))
 
 #afficher les valeurs maximum
-print(getMax(df))
+print(getMax(dataframe))
 
 #on enlevel les columns 'Autres transports international' et 'Autres transports'
-print(enlever_columns(df))
+print(enlever_columns(dataframe))
 
 
