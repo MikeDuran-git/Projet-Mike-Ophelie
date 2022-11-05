@@ -14,3 +14,5 @@ Mike: Ou pour le debut ca sera plus facile de faire un simple fichier python vid
 oui on peut créer un fichier vide et on ajoute ensuite
 
 et le fichier vide on le fait sur git c'est ça
+
+Mike : ok je créer le fichier et je push. N'oublie pas que une fois que le fichier est dans la branche main, de pull le projet dans ton repository local.
