@@ -32,3 +32,4 @@ bon je suis sur ma branche et j'ai pull
 
 maintenant faut se répartir les tâches ?
 
+Mike: Yes, donc tu choisis les parties que tu veut faire et moi je créer ma branche pour faire le rèste. Si tu veut peut m'occuper d'enlever les données avec des Nan Values. Une bonne idée, est de créer des fonctions qui font chaccune 1 tache. genre enleverNan(); changerEspace() etc....
