@@ -49,3 +49,5 @@ Mike: Je vais faire le petit 3, le petit 6 et le petit 7
 
 ça roule je fais le reste
 mais il ne nous a pas donné de fichier csv si ?
+
+Mike: Ok, mes exos sont fonctionnels, je suis pres à merger.
