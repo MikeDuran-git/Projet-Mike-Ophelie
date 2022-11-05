@@ -22,3 +22,8 @@ print(dataframe.colums)
 print(dataframe.dtypes)
 
 # remplacer les espaces par _ dans les noms des colonnes
+dataframe2 = dataframe.columns.str.replace('INSEE commune', 'INSEE_commune')
+dataframe2 = dataframe.columns.str.replace('Autres transports', 'Autres_transports')
+dataframe2 = dataframe.columns.str.replace('CO2 biomasse hors-total', 'CO2_biomasse_hors-total')
+dataframe2 = dataframe.columns.str.replace('Industrie hors-énergie', 'Industrie_hors-énergie')
+
