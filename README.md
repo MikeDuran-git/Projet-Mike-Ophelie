@@ -27,3 +27,8 @@ en fait avec collab ca va pas aller puisque c'est en ligne il faudrait passer pa
 
 
 Mike: C'est pas grave, on va juste utiliser le fichier classique qui est sur le depot actuellement. Ca va passer crème.
+
+bon je suis sur ma branche et j'ai pull
+
+maintenant faut se répartir les tâches ?
+
