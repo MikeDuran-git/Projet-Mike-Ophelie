@@ -21,3 +21,5 @@ ok
 
 on est d'accord que pour travailler sur le fichier csv on va utiliser pandas ?
 
+Mike: Le fichier est push. On peut utiliser pandas oui, il y a aussi numpy. Dit moi ce que tu souhaiterais faire. Ensuite on créer nos branches respective et travailler dessus.
+
