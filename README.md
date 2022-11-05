@@ -37,3 +37,6 @@ Mike: Yes, donc tu choisis les parties que tu veut faire et moi je créer ma bra
 ok je fais la fonction read csv et changement des espaces
 
 Mike: N'oublie pas de push ta branche.
+
+par contre j'ai fait push et ça marche pas
+je suis revenue dans le master et j'ai fait git push et ça ne marche pas
