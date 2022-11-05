@@ -24,3 +24,6 @@ on est d'accord que pour travailler sur le fichier csv on va utiliser pandas ?
 Mike: Le fichier est push. On peut utiliser pandas oui, il y a aussi numpy. Dit moi ce que tu souhaiterais faire. Ensuite on créer nos branches respective et travailler dessus.
 
 en fait avec collab ca va pas aller puisque c'est en ligne il faudrait passer par autre chose
+
+
+Mike: C'est pas grave, on va juste utiliser le fichier classique qui est sur le depot actuellement. Ca va passer crème.
