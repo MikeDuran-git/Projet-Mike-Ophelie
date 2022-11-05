@@ -1,21 +1,24 @@
 # ici on écrit notre code.
 
 """Utilisez read_csv pour lire les données
-
 1-Affichez le tableau des données 
-
 2-Affichez le nom de chaque "colums"
-
-3-Affichez les 10 première lignes, les 10 dernière et les lignes entre 100, 120.
-
+MIKE 3-Affichez les 10 première lignes, les 10 dernière et les lignes entre 100, 120.
 4-Afficher le type de chaque "colums".
-
 5- Remplacer les espaces par _ dans les noms des colonnes.
-
-6-affichez les informations de cette base de données (mean, min , max).
-
-7- Enlevez  les colonnes "Autres transports" et "Autres transports international"""
+MIKE 6-affichez les informations de cette base de données (mean, min , max).
+MIKE 7- Enlevez  les colonnes "Autres transports" et "Autres transports international"""
 
 # fonction qui lit un fichier csv
+dataframe = pd.read_csv('IGT - Pouvoir de réchauffement global.csv.csv')
 
-data = pd.read_csv('fichier.csv')
+# afficher le dataframe
+print(dataframe)
+
+# afficher le nom de chaque colonne
+print(dataframe.colums)
+
+# afficher le type de chaque colonne
+print(dataframe.dtypes)
+
+# remplacer les espaces par _ dans les noms des colonnes
