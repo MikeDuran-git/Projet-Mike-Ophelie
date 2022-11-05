@@ -42,3 +42,7 @@ par contre j'ai fait push et ça marche pas
 je suis revenue dans le master et j'ai fait git push et ça ne marche pas
 
 Mike: Fait un pull. Pour avoir la derniere version, ensuite tu créer ta branch (bons ca tu l'a fait,), ensuite tu fait un add de ton contenu, un commit. puis un push. Si ca marche pas : tu dois faire git push --set-upstream origin le_nom_de_ta_branche
+
+
+
+Mike: Je vais faire le petit 3, le petit 6 et le petit 7
