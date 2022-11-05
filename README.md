@@ -46,3 +46,6 @@ Mike: Fait un pull. Pour avoir la derniere version, ensuite tu créer ta branch 
 
 
 Mike: Je vais faire le petit 3, le petit 6 et le petit 7
+
+ça roule je fais le reste
+mais il ne nous a pas donné de fichier csv si ?
